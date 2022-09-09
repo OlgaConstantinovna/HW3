@@ -1,0 +1,15 @@
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\XYZ.csproj.AssemblyReference.cache
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\XYZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\XYZ.AssemblyInfoInputs.cache
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\XYZ.AssemblyInfo.cs
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\XYZ.csproj.CoreCompileInputs.cache
+D:\HW3\Palindrom\XYZ\bin\Debug\net6.0\XYZ.exe
+D:\HW3\Palindrom\XYZ\bin\Debug\net6.0\XYZ.deps.json
+D:\HW3\Palindrom\XYZ\bin\Debug\net6.0\XYZ.runtimeconfig.json
+D:\HW3\Palindrom\XYZ\bin\Debug\net6.0\XYZ.dll
+D:\HW3\Palindrom\XYZ\bin\Debug\net6.0\XYZ.pdb
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\XYZ.dll
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\refint\XYZ.dll
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\XYZ.pdb
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\XYZ.genruntimeconfig.cache
+D:\HW3\Palindrom\XYZ\obj\Debug\net6.0\ref\XYZ.dll
